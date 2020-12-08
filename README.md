@@ -19,5 +19,7 @@ To achieve this the following modifications were made to the HTML code (index.ht
       <div class="benefit-brand"> was changed to article <article class="benefit-brand">
       <div class="benefit-cost"> was also changed to article article class="benefit-cost">
       <div class="footer"> was changed to <footer class="footer">
-
+1207 
+       ran WAVE (Web accessibility evaluation tool) against my site and added alt tag equals null for the images on this website. 
+           completed some additional clean up on the #style.css file.
       
